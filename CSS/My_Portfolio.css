@@ -536,7 +536,7 @@ body{
 }
     @media (max-width: 991px) {
     #msg {
-        margin-left: 22%;
+        margin-left: 20%;
       font-size: 12px;
     }
   }
