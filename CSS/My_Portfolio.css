@@ -536,8 +536,8 @@ body{
 }
     @media (max-width: 991px) {
     #msg {
-        margin-left: 10%;
-      font-size: 10px;
+        margin-left: 0%;
+      font-size: 8px;
     }
   }
 .footer footer
