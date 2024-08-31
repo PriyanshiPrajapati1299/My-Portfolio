@@ -296,7 +296,7 @@ body{
 }
 @media (max-width: 991px) {
     .serve .row {
-      margin: auto;
+      margin: 1%;
     }
   }
 .serve .row .col-sm-6
